@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuRH4DGTGCnqMxymqkwg50ILoB96rJBhh8+Lsof6U11yan5FNzM3fP2S0I9c2mlODKM2cn5+59PBxtey12BbpQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Projects\\Performance-System.Drawing\\API+front\\ZTP_API\\BackEnd\\BackEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smokieł2\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Smokieł2\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

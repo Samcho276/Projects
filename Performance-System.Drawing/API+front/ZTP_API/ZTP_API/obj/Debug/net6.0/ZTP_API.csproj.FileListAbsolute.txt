@@ -1,0 +1,124 @@
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\appsettings.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.exe
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.deps.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.runtimeconfig.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.pdb
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.AssemblyReference.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.AssemblyInfoInputs.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.AssemblyInfo.cs
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.CoreCompileInputs.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.ZTP_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.build.ZTP_API.props
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ZTP_API.props
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ZTP_API.props
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\scopedcss\bundle\ZTP_API.styles.css
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.CopyComplete
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\refint\ZTP_API.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.pdb
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.genruntimeconfig.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ref\ZTP_API.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.deps.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.exe
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.pdb
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\appsettings.Development.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\appsettings.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.deps.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.exe
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.exe
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.deps.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.runtimeconfig.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.pdb
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.pdb
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.AssemblyReference.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.AssemblyInfoInputs.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.AssemblyInfo.cs
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.CoreCompileInputs.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.MvcApplicationPartsAssemblyInfo.cs
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.MvcApplicationPartsAssemblyInfo.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.ZTP_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.build.ZTP_API.props
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ZTP_API.props
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ZTP_API.props
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\scopedcss\bundle\ZTP_API.styles.css
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.Up2Date
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\refint\ZTP_API.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.pdb
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.genruntimeconfig.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\ZTP_API\obj\Debug\net6.0\ref\ZTP_API.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\appsettings.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.deps.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.exe
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.exe
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.deps.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.runtimeconfig.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\ZTP_API.pdb
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\bin\Debug\net6.0\BackEnd.pdb
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.AssemblyReference.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.AssemblyInfoInputs.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.AssemblyInfo.cs
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.CoreCompileInputs.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.sourcelink.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.ZTP_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.build.ZTP_API.props
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ZTP_API.props
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ZTP_API.props
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\scopedcss\bundle\ZTP_API.styles.css
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.csproj.Up2Date
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\refint\ZTP_API.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.pdb
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ZTP_API.genruntimeconfig.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\ZTP_API\obj\Debug\net6.0\ref\ZTP_API.dll

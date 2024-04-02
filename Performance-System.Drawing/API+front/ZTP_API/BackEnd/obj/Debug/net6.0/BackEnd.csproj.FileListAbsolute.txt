@@ -1,0 +1,58 @@
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.exe
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+D:\Code\UBB\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CopyComplete
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.exe
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.Up2Date
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\API\ZTP_API\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.exe
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.sourcelink.json
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.csproj.Up2Date
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+D:\Code\Projects\Performance-System.Drawing\API+front\ZTP_API\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll

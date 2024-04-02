@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ZTP_API.props" />
+</Project>
