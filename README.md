@@ -42,4 +42,5 @@ Document upload using web form, display job applications and recruitment notes.
 
 ![04](https://github.com/Samo276/Projects/assets/33495575/d75312ce-e992-4135-abf3-0a27782276d0)
 
+Containes un-configured automatic mailing system created using MailKit, C# open source email technology by Jeffrey Stedfast. 
 
