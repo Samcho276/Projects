@@ -1,0 +1,67 @@
+﻿@using Organizer3.Areas.Identity.Data
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model ICollection<UserViewerModel>
+<div class="row">
+    <h4 class=col-md-11>Archiwum pracowników</h4>
+    <button type="button" class="btn btn-secondary col-md-1">            
+            <a class="text-decoration-none text-white" asp-controller="UserViewer" asp-action="UserViewerIndex">
+                Wstecz
+            </a>
+    </button>
+
+
+    
+</div>
+<hr/>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nazwisko
+            </th>
+            <th>
+                Imię
+            </th>
+            <th>
+                Stanowisko
+            </th>
+            <th>
+                Placówka
+            </th>          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+    
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ocupation)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.FacilityName)
+            </td>
+            <td>
+                <div class="button-grp float-end">                
+                    <a type="button" class="  btn btn-sm btn-secondary text-white" asp-controller="EmployeeProfile" asp-action="EmployeeProfileIndex" asp-route-employeeId="@item.UserId">
+                        Więcej
+                    </a>
+                </div>
+            </td>
+        </tr>
+}
+    </tbody>
+
+</table>

@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Organizer3.Models.FacilitiesEditor.FacilitiesListModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+<h4 class="col-md-11">Sklepy</h4>
+<button type="button" class="btn btn-primary col-md-1">        
+        <a class="text-decoration-none text-white" asp-controller="Facilities" asp-action="Create">
+            Nowy
+        </a>
+      </button>
+</div>
+<hr/>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nazwa
+            </th>
+            <th>
+                Region
+            </th>
+            <th>
+                Miasto
+            </th>
+            <th>
+                Kod Pocztowy
+            </th>
+            <th>
+                Adress
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Region)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adress)
+            </td>
+            <td>
+                <a type="button" class="btn btn-sm btn-secondary text-white" asp-controller="Facilities" asp-action="Details" asp-route-sId="@item.Id">
+                    Więcej
+                </a>                               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

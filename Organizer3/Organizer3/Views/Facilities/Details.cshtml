@@ -1,0 +1,55 @@
+﻿@model Organizer3.Models.FacilitiesEditor.FacilityProfileModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+<h4 class="col-md-11">@("Sklep: "+@Model.FacilityData.Name) </h4>
+<button type="button" class="btn btn-secondary col-md-1">        
+        <a class="text-decoration-none text-white" asp-controller="Facilities" asp-action="FacilitiesIndex">
+            Wstecz
+        </a>
+      </button>
+</div>
+<hr />
+<!----------------->
+<nav>
+  <div class="nav nav-tabs" id="nav-tab" role="tablist">
+    <button class="nav-link active" id="nav-A-tab" data-bs-toggle="tab" data-bs-target="#nav-A" type="button" role="tab" aria-controls="nav-A" aria-selected="true">
+        Dane
+    </button>
+    <button class="nav-link" id="nav-B-tab" data-bs-toggle="tab" data-bs-target="#nav-B" type="button" role="tab" aria-controls="nav-B" aria-selected="false">
+        Pracownicy
+    </button>
+    <button class="nav-link" id="nav-C-tab" data-bs-toggle="tab" data-bs-target="#nav-C" type="button" role="tab" aria-controls="nav-C" aria-selected="false">
+        Usuń sklep
+    </button>
+
+  </div>
+</nav>
+<!-------->
+<div class="tab-content" id="nav-tabContent">
+  <div class="tab-pane fade show active" id="nav-A" role="tabpanel" aria-labelledby="nav-A-tab">
+      <partial name="_FacilityDetailsData.cshtml" />
+  </div>
+
+  <div class="tab-pane fade" id="nav-B" role="tabpanel" aria-labelledby="nav-B-tab">
+      <partial name="_FacilityEmployeeContactInfo.cshtml" />
+       
+  </div>
+
+  <div class="tab-pane fade" id="nav-C" role="tabpanel" aria-labelledby="nav-C-tab">
+        <div style="height:5em;"></div>
+       <button type="button" class="btn btn-danger float-center m-5">        
+        <a class="text-decoration-none text-white" asp-controller="Facilities" asp-action="Delete" asp-route-id="@Model.FacilityData.Id">
+            Nieodwracalnie usuń sklep z Bazy danych 
+            i przenieś wszystkich pracowników do nieprzypisanych
+        </a>
+      </button>  
+  </div>
+
+  <div class="tab-pane fade" id="nav-D" role="tabpanel" aria-labelledby="nav-D-tab">  
+  </div>
+ </div>
+

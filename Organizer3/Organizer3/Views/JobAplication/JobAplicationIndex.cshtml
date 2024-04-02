@@ -1,0 +1,60 @@
+﻿@model Organizer3.Models.JobAplicationModel
+
+@{
+    ViewData["Title"] = "JobAplicationIndex";
+}
+
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-4">
+        <form method="post" asp-action="SendJobAplication" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label">Imię</label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label">Nazwisko</label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">Email</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label">Telefon</label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Position" class="control-label">Stanowisko</label>
+                <input asp-for="Position" class="form-control" />
+                <span asp-validation-for="Position" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Resume" class="control-label">CV w formacie pdf (do 5MB)</label>
+                <input asp-for="Resume" class="form-control" />
+                <span asp-validation-for="Resume" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Wyślij" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <div class="col-md-3">
+        <p style="padding-top:15px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+        Etiam ultricies sed libero nec vulputate. Quisque condimentum vel justo sed dapibus. 
+        Mauris finibus mauris purus, sit amet sollicitudin elit egestas non. 
+        Etiam pretium nisl eu enim ultrices facilisis. Nulla ullamcorper lobortis fermentum. 
+        Aenean et dui id dolor lacinia ultrices aliquam et nunc. 
+        Praesent sollicitudin venenatis odio, eu vestibulum quam ultricies id. </p></div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

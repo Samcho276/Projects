@@ -1,0 +1,22 @@
+﻿@model EmployeeProfileDataModel
+
+    @{
+            if(@Model.AccessPrivileges != null || @Model.AccessPrivileges.Any())
+            {
+                <h5 class="mt-3">Uzytkownik obecnie posiada dostęp do:</h5>
+                @foreach(var item in @Model.AccessPrivileges){
+                    <li>@item</li>
+                }
+            }else{
+        <p>Użytkownik obecnie nie posiada dostępu do żadnych funckji</p>
+    }
+}
+@if (@Model.AllowToEdit)
+{
+    <hr />
+    <button type="button" class="btn btn-primary float-end">        
+        <a class="text-decoration-none text-white" asp-controller="UserViewer" asp-action="UserAccessDataEditor" asp-route-Id="@Model.UserData.UserId">
+            Edytuj Uprawnienia
+        </a>
+      </button>
+      }

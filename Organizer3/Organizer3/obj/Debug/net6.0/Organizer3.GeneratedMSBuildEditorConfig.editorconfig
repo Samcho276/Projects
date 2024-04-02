@@ -1,0 +1,275 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Organizer3
+build_property.RootNamespace = Organizer3
+build_property.ProjectDir = C:\Users\Smokieł2\Desktop\Organizer3-main\Organizer3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Smokieł2\Desktop\Organizer3-main\Organizer3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Announcements/AnnouncerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xBbm5vdW5jZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Announcements/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Announcements/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Announcements/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Announcements/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/EmployeeProfile/AddNewLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQcm9maWxlXEFkZE5ld0xlYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/EmployeeProfile/EmployeeProfileIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQcm9maWxlXEVtcGxveWVlUHJvZmlsZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/EmployeeProfile/EmployeeProfileWorkplaceSelection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQcm9maWxlXEVtcGxveWVlUHJvZmlsZVdvcmtwbGFjZVNlbGVjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/EmployeeProfile/_EmployeeProfileAccessTab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQcm9maWxlXF9FbXBsb3llZVByb2ZpbGVBY2Nlc3NUYWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/EmployeeProfile/_EmployeeProfileDataTab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQcm9maWxlXF9FbXBsb3llZVByb2ZpbGVEYXRhVGFiLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/EmployeeProfile/_EmployeeProfileEmploymentTab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQcm9maWxlXF9FbXBsb3llZVByb2ZpbGVFbXBsb3ltZW50VGFiLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/EmployeeProfile/_EmployeeProfileLeaveTab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQcm9maWxlXF9FbXBsb3llZVByb2ZpbGVMZWF2ZVRhYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Facilities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdGllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Facilities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdGllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Facilities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdGllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Facilities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdGllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Facilities/FacilitiesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdGllc1xGYWNpbGl0aWVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Facilities/_FacilityDetailsData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdGllc1xfRmFjaWxpdHlEZXRhaWxzRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Facilities/_FacilityEmployeeContactInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdGllc1xfRmFjaWxpdHlFbXBsb3llZUNvbnRhY3RJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Home/_FunctionsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfRnVuY3Rpb25zTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/JobAplication/JobAplicationConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iQXBsaWNhdGlvblxKb2JBcGxpY2F0aW9uQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/JobAplication/JobAplicationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iQXBsaWNhdGlvblxKb2JBcGxpY2F0aW9uSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/MyShop/MyShopIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlTaG9wXE15U2hvcEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/MyShop/_MyShopData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlTaG9wXF9NeVNob3BEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/MyShop/_MyShopEmployeeDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlTaG9wXF9NeVNob3BFbXBsb3llZURpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/MyShop/_MyShopIncommingAttendace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlTaG9wXF9NeVNob3BJbmNvbW1pbmdBdHRlbmRhY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/MyShop/_MyShopShiftsDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlTaG9wXF9NeVNob3BTaGlmdHNEaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/ReadSingleAnnouncement/ReadSingleAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhZFNpbmdsZUFubm91bmNlbWVudFxSZWFkU2luZ2xlQW5ub3VuY2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Recruiter/AddNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdGVyXEFkZE5vdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Recruiter/DeleteRecritmentFromArchiveConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdGVyXERlbGV0ZVJlY3JpdG1lbnRGcm9tQXJjaGl2ZUNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Recruiter/DisplayFistStage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdGVyXERpc3BsYXlGaXN0U3RhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Recruiter/DisplayInRecruitment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdGVyXERpc3BsYXlJblJlY3J1aXRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Recruiter/RecruiterIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdGVyXFJlY3J1aXRlckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Schedule/AddHumanResources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcQWRkSHVtYW5SZXNvdXJjZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Schedule/AddShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcQWRkU2hpZnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Schedule/GenerateSchedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcR2VuZXJhdGVTY2hlZHVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Schedule/ShowMySchedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcU2hvd015U2NoZWR1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Schedule/_GenerateSheduleDisplayShiftInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcX0dlbmVyYXRlU2hlZHVsZURpc3BsYXlTaGlmdEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/SiteFunctions/SiteFunctionsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZUZ1bmN0aW9uc1xTaXRlRnVuY3Rpb25zSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/AfterUserCreation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxBZnRlclVzZXJDcmVhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/CreateNewUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxDcmVhdGVOZXdVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/EditUserPhoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxFZGl0VXNlclBob3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/EmploymentStatusEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxFbXBsb3ltZW50U3RhdHVzRWRpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/LegacyUserViewerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxMZWdhY3lVc2VyVmlld2VySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/UserAccessDataEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxVc2VyQWNjZXNzRGF0YUVkaXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/UserDataEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxVc2VyRGF0YUVkaXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/UserViewer/UserViewerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclZpZXdlclxVc2VyVmlld2VySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Smokieł2/Desktop/Organizer3-main/Organizer3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-02p9lmen73

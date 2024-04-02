@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Organizer3.Models.EmployeeEditor.AfterUserCreationModel
+<h4>@("Utworzono użytkownika: "+@Model.name)</h4>
+<hr/>
+<h5>Przekaż pracownikowi:</h5>
+<div class="col-md-5 row">
+    <p>@("Login: "+@Model.login)</p>
+    <p>@("Hasło: "+@Model.password)</p>   
+</div>
+<div class="col-md-5 mt-3">
+    <!--
+    <button type="button" class="btn btn-primary">
+        <a class="text-decoration-none text-white" asp-controller="UserViewer" asp-action="EditUserPhoto" asp-route-id="@@Model.Id">
+            Dodaj zdjęcie
+        </a>
+    </button>
+
+    <button type="button" class="btn btn-secondary">
+        <a class="text-decoration-none text-white" value="Zakończ" asp-controller="UserViewer" asp-action="UserViewerIndex">
+            Zakończ
+        </a>
+    </button>
+    -->
+    <button type="button" class="btn btn-secondary">
+        <a class="text-decoration-none text-white" value="Zakończ" asp-controller="EmployeeProfile" asp-action="EmployeeProfileIndex" asp-route-employeeId="@Model.Id">
+            Dalej
+        </a>
+    </button>
+</div>
+
+<label></label>

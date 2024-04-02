@@ -1,0 +1,40 @@
+﻿@using Organizer3.Models.Scheduler
+@model List<ShowMyScheduleItemModel>
+<h4>Rozpiska zmian:</h4>
+    </hr>
+
+ 
+      <table class="table">
+    <thead>
+        <tr>
+            <th>
+                Zmiana
+            </th>
+            <th>
+                Dzień
+            </th>
+            <th>
+                Godziny
+            </th>            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in @Model.OrderBy(o=>o.Day).Where(o=>o.Day>=DateTime.Now.AddDays(-1))) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @item.Day.ToString("dd.MM.yyyy")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>            
+        </tr>
+}
+    </tbody>
+</table>
+
+
+
+

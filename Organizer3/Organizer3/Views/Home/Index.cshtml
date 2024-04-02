@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model FunctionsListModel
+@using Microsoft.AspNetCore.Identity
+@using Organizer3.Areas.Identity.Data
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+
+<div class="row">
+    
+    <div class="col-md-2 min-vw-50" >
+        @if (SignInManager.IsSignedIn(User)){
+            @if (Model.Access != null)
+            {
+                <partial name="_FunctionsList"/>
+            }
+        }
+    </div>
+    <div class="col-md-9">
+        @if (@Model.NewsList != null)
+        {
+            @foreach (var item in @Model.NewsList)
+            {
+                <div class="card-body shadow p-3 mb-3 bg-white rounded" style="background-color:white;">
+                    <h4>@item.Title</h4>
+                    <p>@item.Sender @item.CreationTime @item.EditedBy</p>
+                    <hr/>
+                    @if (@item.MessageContent.Length > 400)
+                    {
+                        <p>@item.MessageContent.Substring(0,350)<a class="" asp-controller="ReadSingleAnnouncement" asp-action="ReadSingleAnnouncement" asp-route-id="@item.Id">...czytaj dalej.</a>
+                        </p>
+                    }
+                    else
+                    {
+                        <p>@item.MessageContent</p>
+                    }
+                
+                </div>
+            }
+        }
+    </div>
+    
+    </div>
+</div>
+
+
+
