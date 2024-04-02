@@ -1,4 +1,4 @@
-# 1. Performance reasearch: System.Drawing
+# Performance reasearch: System.Drawing
 </hr>
 Microsoft C# System.Drawing performance test in comparison to custom made methods created for simple processing of 24bit jpg images.
 Testing was carried out on set of 50 1024x681 images, results were recorded using Jetbrains dotMemory software.
@@ -15,7 +15,7 @@ Processing images using Custom made  took 4.4-4.5 seconds and used 248MB of syst
 Conclusion:
 Using custom methods reduced memmory usage in this case by 65% and execution time by 78%.
 
-# 2. Organizer3
+# Organizer3
 WebApp created using ASP.NET(MVC), Entity Framework and Identity for user auth. Functionality centered around data storage and employee management for a small company.
 To create Admin account: run database migration(```Add-Migration MigrationName```
 ```Update-Database``` ), register using Identity form, and set permissions in database.
