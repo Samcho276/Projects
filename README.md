@@ -22,19 +22,19 @@ To create Admin account: run database migration(```Add-Migration MigrationName``
 
 Functionality:
 
-Store users personal data, profile photos and uploads profile pictures
+Store users personal data, profile photos and uploads profile pictures.
 
 ![0 5](https://github.com/Samo276/Projects/assets/33495575/c18b61a2-0092-48c1-98ac-5a3e15a5a3cc)
 
-Create schedules for employees and register leaves
+Create schedules for employees and register leaves.
 
 ![05](https://github.com/Samo276/Projects/assets/33495575/92817615-b9af-4d7a-9ff2-1b880a01a176)
 
-Display schedules
+Displays schedules.
 
 ![03](https://github.com/Samo276/Projects/assets/33495575/1a06f29b-6545-45f7-b07a-06867e8bb1ce)
 
-Display blog style announcements
+Display blog style announcements.
 
 ![01](https://github.com/Samo276/Projects/assets/33495575/2df75985-c8c0-49a4-8e37-fc15fde2ddc0)
 
