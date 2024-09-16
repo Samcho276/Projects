@@ -1,0 +1,68 @@
+﻿@using Doniczkomat.Database
+@model List<PlantPot>
+
+@{
+    <!--a id="addNewButton" style="text-decoration:none;text-align:center; padding:0;font-size:40px;color:black;" href="">+</a-->
+    if (Model.Count == 0)
+    {
+        <p>Nothing but ducks here...</p>
+    }
+    else
+    {
+
+        string bgColor = "addNewButton";
+        @foreach (var item in Model)
+        {
+
+            @if (item.waterLevel > 30)
+            {
+                bgColor = "aliceblue";
+            }
+            else
+            {
+                bgColor = "yellow";
+            }
+
+            <form asp-action="PlantPotDetails" asp-controller="Home">
+                <input class="form-control" type="hidden" id="potID" name="potID" value="@item.plantPotID" />
+                <button style="border:0px;border-radius:10px;background-color:@bgColor;padding:20px;" type="submit">
+                    <ul style="float:left">
+                        <li>@item.name</li>
+                        <li>|</li>
+                        <li>Poziom wody: @item.waterLevel %</li>
+                        <li>Wilgotnośc gleby @item.soilMoisture %</li>
+                        <li>|</li>
+                        <li>Ostatnie podlewanie: @item.lastWatering.ToShortDateString()</li>
+                        <li>Odstęp między podlewaniami: @item.cooldown dni</li>
+
+                    </ul>
+                </button>
+            </form>
+
+        }
+
+    }
+
+}
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    li {
+        float: left;
+        padding: 0 10px 0 0;
+    }
+    #addNewButton{
+        position: fixed;
+        bottom: 40px;
+        right: 40px;
+        border: 4px solid black;
+        border-radius:40px;
+        width:60px;
+        height:60px;
+    }
+</style>

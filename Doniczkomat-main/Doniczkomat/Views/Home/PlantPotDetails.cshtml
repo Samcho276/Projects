@@ -1,0 +1,78 @@
+﻿
+@model List<Doniczkomat.Database.PlantPot>
+@{
+
+    <form asp-action="UpdatePlantPotDetails" asp-controller="Home">
+        <input class="form-control" type="hidden" id="potID" name="potID" value="@Model.FirstOrDefault().plantPotID" />
+        <table>
+            <tr>
+                <th>Nazwa</th>
+                <th>Odstęp między podlewaniami</th>
+                <th></th>
+                <th></th>
+            </tr>
+                <tr>
+                    
+                    <td><input class="form-control" type="text" id="potName" name="potName" value="@Model.FirstOrDefault().name" /></td>
+                    <td><input class="form-control" type="number" id="potCooldown" name="potCooldown" value="@Model.FirstOrDefault().cooldown" /></td>
+                <td>
+                    <button class="btn btn-primary" type="submit">
+                        Zmień
+                    </button>
+                </td>
+                <td>
+                    @Model.FirstOrDefault().ip
+                </td>
+                </tr>
+
+        </table>
+            
+            
+        
+       
+    </form>
+    <hr>
+    <table id="sts">
+        <tr>
+            <th>Wilgotnośc gleby</th>
+            <th>Poziom wody</th>
+            <th>Data</th>
+        </tr>
+        @foreach (var item in Model)
+        {       
+        <tr>
+            <td>@item.soilMoisture %</td>
+            <td>@item.waterLevel %</td>
+            <td>@item.lastCheck</td>
+        </tr>       
+        }
+    </table>
+}
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    li {
+        float: left;
+        padding: 0 10px 0 0;
+    }
+    td{
+        text-align: center;
+        padding-left: 10px;
+    }
+    th{
+        text-align: center;
+        padding-left: 10px;
+    }
+    tr{
+        padding-left:10px;
+    }
+
+    #sts tr:nth-child(even) {
+        background-color: lightcyan;
+
+</style >

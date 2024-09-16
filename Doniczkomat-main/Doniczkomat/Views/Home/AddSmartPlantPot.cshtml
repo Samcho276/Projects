@@ -1,0 +1,21 @@
+﻿@model SmartPlantPotModel
+
+<form asp-action="AddPlantPotToDatabase" asp-controller="Home" method="post">
+    
+    <div style="border-radius:5px;box-shadow:5px 5px 20px 5px #b7b7b7;padding:10px" class="col-md-4">
+        <h3>Add new Plant Pot</h3>
+        <div class ="mb-3">
+            <label class="form-label" for="name">Nazwa:</label>
+            <input class="form-control" type="text" id="name" name="name" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="ip">Adres IP:</label>
+            <input class="form-control" type="text" id="ip" name="ip" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="cooldown">Odstęp pomiędzy podlewaniem:</label>
+            <input class="form-control" type="number" id="cooldown" name="cooldown" value="0" />
+        </div>
+        <button class="btn btn-primary" type="submit">Dodaj</button>
+    </div>
+</form>

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ImageProcessing
-build_property.ProjectDir = E:\UBB\Sem_1\ZTP Zaawansowane techniki programowania\program podstawowy Nowy\ImageProcessing\ImageProcessing\
+build_property.ProjectDir = d:\Code\Projects\Performance-System.Drawing\Console\ImageProcessing\ImageProcessing\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
