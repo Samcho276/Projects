@@ -2,8 +2,8 @@
 ASP.NET(MVC) web app managing smart plant pots build using ESP8266. Each ESP has its own on board api, the web app is sending requests to gather status of soil moisture and water level in tank.
 Based on received information app sends api request to order plant watering.
 ![](https://github.com/Samcho276/Projects/blob/main/Doniczkomat-main/Readme-images/01.png?raw=true)
-![](![image](https://github.com/user-attachments/assets/133db44f-21c7-4881-b16d-bcd1fb141367))
-![](![image](https://github.com/user-attachments/assets/dbdf33db-0fa9-4610-a93a-c5550aeada97))
+![](https://github.com/user-attachments/assets/133db44f-21c7-4881-b16d-bcd1fb141367)
+![](https://github.com/user-attachments/assets/dbdf33db-0fa9-4610-a93a-c5550aeada97)
 
 # Organizer3
 WebApp created using ASP.NET(MVC), Entity Framework and Identity for user auth. Functionality centered around data storage and employee management for a small company.
