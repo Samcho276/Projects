@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NVTDFtYX9KE=",
+  "dgSpecHash": "k3L7sJZkqB4=",
   "success": true,
-  "projectFilePath": "D:\\Code\\UBB\\SEM_2\\IR_Internet_Rzeczy\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj",
+  "projectFilePath": "D:\\Code\\Projects\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Smokieł2\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Smokieł2\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

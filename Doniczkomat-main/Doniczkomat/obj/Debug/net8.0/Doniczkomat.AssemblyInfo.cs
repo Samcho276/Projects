@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doniczkomat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05e03403eaf2c5144128db00b10b99fc4c581df8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+939244b0ff27aeb5ca0d4ce8dc2e9770379d8981")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doniczkomat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doniczkomat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

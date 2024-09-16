@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\UBB\\SEM_2\\IR_Internet_Rzeczy\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj": {}
+    "D:\\Code\\Projects\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj": {}
   },
   "projects": {
-    "D:\\Code\\UBB\\SEM_2\\IR_Internet_Rzeczy\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj": {
+    "D:\\Code\\Projects\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\UBB\\SEM_2\\IR_Internet_Rzeczy\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj",
+        "projectUniqueName": "D:\\Code\\Projects\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj",
         "projectName": "Doniczkomat",
-        "projectPath": "D:\\Code\\UBB\\SEM_2\\IR_Internet_Rzeczy\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj",
+        "projectPath": "D:\\Code\\Projects\\Doniczkomat-main\\Doniczkomat\\Doniczkomat.csproj",
         "packagesPath": "C:\\Users\\Smokieł2\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\UBB\\SEM_2\\IR_Internet_Rzeczy\\Doniczkomat-main\\Doniczkomat\\obj\\",
+        "outputPath": "D:\\Code\\Projects\\Doniczkomat-main\\Doniczkomat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
